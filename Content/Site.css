@@ -1,0 +1,14 @@
+﻿/* tabla DIV
+-----------------------------------------------------------*/
+.tabla{
+	display: table;
+	border: 2px solid #2F4F4F;
+	margin-left: 200px;
+}
+.fila{
+	display: table-row;
+}
+.columna{
+	display: table-cell;
+	padding: 12px;
+}
